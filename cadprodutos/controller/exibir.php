@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="view/assets/css/estilo.css">
 </head>
 <body>
-  <h1 class="titulo">Cadastro de produtos</h1>
-  <p id="apresentacao">Cadastre o produto preenchendo as seguintes categorias:</p>
+  <h1 class="titulo">Produtos</h1>
+  <p id="apresentacao">Aqui você pode cadastrar um produto ou visualizar um produto cadastrado</p>
  </body>
 </html>
