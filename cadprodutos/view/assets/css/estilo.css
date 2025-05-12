@@ -1,0 +1,17 @@
+/* 1. Seletores */
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 64px;
+    color: yellow;
+}
+
+.titulo {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#apresentacao {
+    font-size: 18px;
+    color: green;
+    margin-top: 10px;
+}
